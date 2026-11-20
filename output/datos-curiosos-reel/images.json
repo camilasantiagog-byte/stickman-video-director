@@ -1,0 +1,76 @@
+{
+ "hook": [
+  "hook_0.jpg",
+  "hook_1.jpg"
+ ],
+ "octopus": [
+  {
+   "f": "octopus_0.jpg",
+   "z": 1.3,
+   "c": [
+    0.6,
+    0.62
+   ]
+  },
+  {
+   "f": "octopus_0.jpg",
+   "z": 2.2,
+   "c": [
+    0.68,
+    0.6
+   ]
+  }
+ ],
+ "honey": [
+  "honey_0.jpg",
+  "egypt_0.jpg"
+ ],
+ "venus": [
+  "venus_1.jpg",
+  {
+   "f": "venus_0.jpg",
+   "z": 1.4,
+   "c": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "flamingo": [
+  "flamingo_0.jpg",
+  {
+   "f": "flamingo_0.jpg",
+   "z": 2.0,
+   "c": [
+    0.33,
+    0.55
+   ]
+  }
+ ],
+ "eiffel": [
+  "eiffel_0.jpg",
+  {
+   "f": "eiffel_1.jpg",
+   "z": 1.8,
+   "c": [
+    0.5,
+    0.3
+   ]
+  }
+ ],
+ "cow": [
+  "cow_0.jpg",
+  {
+   "f": "cow_0.jpg",
+   "z": 2.2,
+   "c": [
+    0.3,
+    0.35
+   ]
+  }
+ ],
+ "brain": [
+  "brain_a.jpg",
+  "brain_b.jpg"
+ ]
+}
